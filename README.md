@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/niraj-kr/leetcode/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/niraj-kr/leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/niraj-kr/leetcode/tree/master/0179-largest-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/niraj-kr/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
